@@ -23,3 +23,4 @@ toml==0.10.2
 tomli==2.0.1
 typing_extensions==4.5.0
 virtualenv==20.21.0
+git+https://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@github.com/redaptiveinc/ds_toolbox@1.8.1
